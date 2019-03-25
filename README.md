@@ -1,2 +1,1 @@
-# AMC-Bridge-Tutor
-tasks
+# AMC-Bridge-Tutor tasks
